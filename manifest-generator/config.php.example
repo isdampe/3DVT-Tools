@@ -1,25 +1,25 @@
 <?php
 
-define('BASE_URL',      'https://cdn.3dvt.com.au/tours/%s/');
+define('BASE_URL',      '/tours/%s/');
 
 $preloaded_assets = array(
-  'https://v.3dvt.com.au/assets/global.min.css',
-  'https://v.3dvt.com.au/assets/img/3dvt-logo.png',
-  'https://v.3dvt.com.au/assets/img/play.png',
-  'https://v.3dvt.com.au/assets/img/pause.png',
-  'https://v.3dvt.com.au/assets/img/fullscreen.png',
-  'https://v.3dvt.com.au/assets/img/windowed.png',
-  'https://v.3dvt.com.au/assets/img/expand.png',
-  'https://v.3dvt.com.au/assets/img/collapse.png',
-  'https://v.3dvt.com.au/assets/img/up.png',
-  'https://v.3dvt.com.au/assets/img/down.png',
-  'https://v.3dvt.com.au/assets/img/right.png',
-  'https://v.3dvt.com.au/assets/img/left.png',
-  'https://v.3dvt.com.au/assets/img/plus.png',
-  'https://v.3dvt.com.au/assets/img/minus.png',
-  'https://v.3dvt.com.au/assets/js/build/app.min.js',
-  'https://v.3dvt.com.au/assets/img/3dvt-logo-watermark.png',
-  'https://v.3dvt.com.au/assets/img/link.png'
+  '/assets/css/global.min.css',
+  '/assets/img/3dvt-logo.png',
+  '/assets/img/play.png',
+  '/assets/img/pause.png',
+  '/assets/img/fullscreen.png',
+  '/assets/img/windowed.png',
+  '/assets/img/expand.png',
+  '/assets/img/collapse.png',
+  '/assets/img/up.png',
+  '/assets/img/down.png',
+  '/assets/img/right.png',
+  '/assets/img/left.png',
+  '/assets/img/plus.png',
+  '/assets/img/minus.png',
+  '/assets/js/build/app.min.js',
+  '/assets/img/3dvt-logo-watermark.png',
+  '/assets/img/link.png'
 );
 
 $manifest_template = 'CACHE MANIFEST
